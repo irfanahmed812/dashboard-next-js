@@ -1,0 +1,63 @@
+.bg-sidebar {
+    background: var(--Dark02, #15132B);
+
+    /* Shadow-Black01 */
+    box-shadow: 18px 4px 35px 0px rgba(0, 0, 0, 0.15);
+}
+
+.logo {
+    color: #FFF;
+    font-family: Font Awesome 5 Brands;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.main {
+    color: #C7C7C7;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1px;
+}
+
+.menu-items {
+    color: #464366;
+    font-family: Cairo;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.active {
+    border-right: 5px solid #6418C3;
+    margin-right: 0;
+    margin-left: 41px;
+}
+
+.add-banner {
+    border-radius: 32px;
+    background: linear-gradient(139deg, #1CBBFF 23.19%, #4FF3FE 104.35%);
+    box-shadow: 0px 14px 28px 0px rgba(94, 207, 255, 0.12);
+}
+
+/* horizontal navbar */
+.bg-navbar {
+    background: var(--Dark02, #15132B);
+}
+
+.indicator {
+    border-radius: 14px;
+    box-shadow: 0px 14px 28px 0px rgba(94, 207, 255, 0.12);
+}
+
+.divider-c {
+    border-left: 2px solid #1E1C3A;
+    width: 1px;
+    height: 56px;
+
+}
